@@ -19,3 +19,14 @@ git branch -d - команда для удаления ветки /
 git dff - для показа разницы между текущей и уже зафиксированной версии файла.
 
 ## Lesson Markdown
+Диалекты и редакторы / 
+Параграфы и разрывы строк (paragraphs and breaks) / 
+Загаловки (headings) / 
+Выделение текста (emphasis) / 
+Разделители (horizontal rules) / 
+Цитаты (blockguotes) / 
+Списки (lists) / 
+Ссылки (links) / 
+Картинки (images) / 
+Вставка кода (code) / 
+Таблица (tables) 
